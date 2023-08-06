@@ -2,7 +2,7 @@
 
 A Professional Translator that can translate to and from Morse Code.
 
-I have many more things planned for this project, such as optionally Flashing the flashlight in the pattern of the Morse Code.
+I have many more things planned for this project, such as optionally Flashing the flashlight(if found) in the pattern of the Morse Code.
 
 ---
 
